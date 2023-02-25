@@ -1,2 +1,4 @@
 # TaskManager
-Project TaskManager Node JS
+Project restful APIs, CRUD to make simple app like to do list
+# Tech
+Node js, MongoDB 
